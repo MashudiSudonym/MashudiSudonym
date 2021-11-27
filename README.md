@@ -34,4 +34,4 @@
 
 ![Mashudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MashudiSudonym&show_icons=true&theme=radical)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashudisudonym" alt="mashudisudonym" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashudisudonym&theme=discord" alt="mashudisudonym" /></a> </p>

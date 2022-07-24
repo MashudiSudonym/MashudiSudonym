@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/mashudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashudi" height="30" width="40" /></a>
 <a href="https://fb.com/muhamadmashudiardiwinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhamadmashudiardiwinata" height="30" width="40" /></a>
 <a href="https://medium.com/@muhamadmashudiardiwinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhamadmashudiardiwinata" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucmltz57p6cxcbvk-coqvfuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmltz57p6cxcbvk-coqvfuq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucmltz57p6cxcbvk-coqvfuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCMLtz57p6CXcbvK-cOqVFUQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

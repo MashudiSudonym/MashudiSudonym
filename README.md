@@ -34,4 +34,6 @@
 
 ![Mashudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MashudiSudonym&show_icons=true&theme=radical)
 
+[![@masrobot's Holopin board](https://holopin.me/masrobot)](https://holopin.io/@masrobot)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashudisudonym&theme=discord" alt="mashudisudonym" /></a> </p>

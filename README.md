@@ -1,3 +1,16 @@
+```diff
+
+object AboutMe {
+    val fullName = "Muhamad Mashudi Ardi Winata"
+    val linkedin = "https://www.linkedin.com/in/mashudi/"
+-   val yearsOfExperience = 4
++   val yearsOfExperience = 5
+    val role = "Android Developer at Fashion Forth Indonesia"
+}
+
+```
+
+<!--
 <h1 align="center">Hi 👋, I'm Muhamad Mashudi Ardi Winata</h1>
 <h3 align="center">Android Developer | Kotlin</h3>
 
@@ -37,3 +50,4 @@
 [![@masrobot's Holopin board](https://holopin.me/masrobot)](https://holopin.io/@masrobot)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashudisudonym&theme=discord" alt="mashudisudonym" /></a> </p>
+/>

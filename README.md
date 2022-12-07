@@ -1,11 +1,11 @@
 ```diff
 
 object AboutMe {
-    val fullName = "Muhamad Mashudi Ardi Winata"
-    val linkedin = "https://www.linkedin.com/in/mashudi/"
--   val yearsOfExperience = 4
-+   val yearsOfExperience = 5
-    val role = "Android Developer at Fashion Forth Indonesia"
+    val fullName: String = "Muhamad Mashudi Ardi Winata"
+    val linkedin: String = "[https://www.linkedin.com/in/mashudi/](https://linkedin.com/in/mashudi)"
+-   val yearsOfExperience: Int = 4
++   val yearsOfExperience: Int = 5
+    val role: String = "Android Developer at [Fashion Forth Indonesia](https://linkedin.com/company/fashion-forth-indonesia)"
 }
 
 ```

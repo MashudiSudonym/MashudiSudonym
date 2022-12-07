@@ -2,7 +2,7 @@
 
 object AboutMe {
     val fullName: String = "Muhamad Mashudi Ardi Winata"
-    val linkedin: String = "https://www.linkedin.com/in/mashudi/"
+    val linkedIn: String = "https://www.linkedin.com/in/mashudi/"
 -   val yearsOfExperience: Int = 4
 +   val yearsOfExperience: Int = 5
     val role: String = "Android Developer at Fashion Forth Indonesia"

@@ -5,7 +5,7 @@ object AboutMe {
     val linkedIn: String = "https://www.linkedin.com/in/mashudi/"
 -   val yearsOfExperience: Int = 5
 +   val yearsOfExperience: Int = 6
-    val role: String = "Android Developer at Fashion Forth Indonesia"
+    val role: String = "Freelance Android Developer"
     val programmingLanguage: List<String> = listOf("kotlin", "dart")
     val tools: List<String> = listOf("Android Studio", "VSCode")
 }

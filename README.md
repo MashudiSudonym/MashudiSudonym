@@ -7,7 +7,7 @@ object AboutMe {
 +   val yearsOfExperience: Int = 6
     val role: String = "Freelance Android Developer"
     val programmingLanguage: List<String> = listOf("kotlin", "dart")
-    val tools: List<String> = listOf("Android Studio", "VSCode")
+    val tools: List<String> = listOf("Android Studio", "VSCode", "Flutter", "Appwrite", "Firebase", "Docker")
 }
 
 ```
